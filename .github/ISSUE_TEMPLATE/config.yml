@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Course Documentation
+    url: https://github.com/your-org/github-classes/blob/main/README.md
+    about: View course materials and documentation
+  - name: Resources
+    url: https://github.com/your-org/github-classes/blob/main/docs/resources.md
+    about: Learning resources and tutorials
+

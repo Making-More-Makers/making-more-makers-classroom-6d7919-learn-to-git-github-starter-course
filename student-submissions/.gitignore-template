@@ -1,0 +1,49 @@
+# Example .gitignore for Arduino/ESP32 projects
+
+# Arduino IDE
+*.hex
+*.eep
+*.elf
+*.map
+*.sym
+*.lss
+*.lst
+*.srec
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Build files
+build/
+*.o
+*.a
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Credentials and keys
+secrets.h
+config.h
+*.key
+*.pem
+
+# Large media files (upload separately or compress)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Documentation drafts
+drafts/
+
