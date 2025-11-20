@@ -8,7 +8,7 @@
 <a name="english"></a>
 ## 📅 Schedule
 
-**Morning Session**: 9:00 AM - 12:00 PM - Git, GitHub & Documentation  
+**Morning Session**: 10:00 AM - 11:50 PM - Git, GitHub & Documentation  
 **Afternoon Session**: 1:30 PM - 5:00 PM - TinkerCAD & Project Planning
 
 ---

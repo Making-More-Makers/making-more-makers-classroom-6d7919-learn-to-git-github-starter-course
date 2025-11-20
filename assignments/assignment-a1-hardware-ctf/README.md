@@ -45,16 +45,20 @@ By the end of this assignment, you will have:
 **任务**：从硬件套件中测试6个传感器和6个执行器。
 
 **Deliverables**:
-- `/level1/sensors/*.md` (6 files)
-- `/level1/actuators/*.md` (6 files)
-
+- `/level1/sensors/` (Total 12 files)
+  - `*.md,` (6 files)
+  - `*.ino` (6 files)
+- `/level1/actuators/` (Total 12 files)
+  - `*.md,` (6 files)
+  - `*.ino` (6 files)
+  
 **Requirements**:
-- Each file documents one module test
+- Each file documents one module
 - Include: hardware used, wiring, code, test result
 - At least one photo of wiring (optional)
 
 **要求**：
-- 每个文件记录一个模块测试
+- 每个文件记录一个模块
 - 包括：使用的硬件、接线、代码、测试结果
 - 至少一张接线照片（可选）
 
