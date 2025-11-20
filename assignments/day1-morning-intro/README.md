@@ -1,8 +1,8 @@
 # Assignment: Day 1 Morning - Maker Introduction
 # 作业：第1天上午 - Maker自我介绍
 
-**When**: Day 1 Morning Session | 时间：第1天上午  
-**Duration**: Complete after Spaghetti Challenge | 时长：Spaghetti Challenge后完成  
+**When**: Day 1 - Accept in morning, complete in afternoon | 时间：第1天 - 上午加入，下午完成  
+**Duration**: 30-45 minutes to complete | 完成时长：30-45分钟  
 **Due Date**: End of Day 1 (11:59 PM) | 截止时间：第1天结束（晚上11:59）  
 **Type**: Individual Assignment | 类型：个人作业  
 **Points**: Not graded (Completion only) | 不计分（仅记录完成）
@@ -11,9 +11,17 @@
 
 ## 📋 Assignment Overview | 作业概览
 
-Welcome to your first GitHub assignment! This assignment is completed after the Day 1 morning session, where you've:
+Welcome to your first GitHub assignment! 
+
+**Timeline for Day 1:**
+- ⏰ **Morning (117-132 min)**: You accept this assignment and join GitHub Classroom
+- ⏰ **Afternoon**: You fill out the templates and complete the work
+- ⏰ **Evening (by 11:59 PM)**: Final submission deadline
+
+After the Day 1 morning session, you will have:
 - Learned about Maker culture
 - Completed the Spaghetti Marshmallow Challenge
+- Joined GitHub Classroom (live in class!)
 - Started your Maker journey
 
 This simple introduction task helps you:
@@ -21,9 +29,17 @@ This simple introduction task helps you:
 - Create your Maker Profile
 - Reflect on today's activities
 
-欢迎来到你的第一个 GitHub 作业！这个作业在第1天上午课程后完成，此时你已经：
+欢迎来到你的第一个 GitHub 作业！
+
+**第1天时间线：**
+- ⏰ **上午（117-132分钟）**：你在课堂上接受作业并加入 GitHub Classroom
+- ⏰ **下午**：填写模板并完成作业
+- ⏰ **晚上（11:59 PM前）**：最终提交截止时间
+
+在第1天上午课程后，你已经：
 - 学习了 Maker 文化
 - 完成了 Spaghetti Marshmallow Challenge
+- 现场加入了 GitHub Classroom
 - 开始了你的 Maker 之旅
 
 这个简单的介绍任务帮助你：
@@ -248,9 +264,10 @@ Once you've submitted:
 
 | Time | Activity | 时间 | 活动 |
 |------|----------|------|------|
-| **Morning** | Learn Maker culture, do Spaghetti Challenge | **上午** | 学习 Maker 文化，完成 Spaghetti Challenge |
-| **Afternoon** | Accept assignment, fill out templates | **下午** | 接受作业，填写模板 |
-| **Evening** | Submit by 11:59 PM | **晚上** | 11:59 PM 前提交 |
+| **Morning (9:00-11:00)** | Learn Maker culture, do Spaghetti Challenge | **上午（9:00-11:00）** | 学习 Maker 文化，完成 Spaghetti Challenge |
+| **Morning (10:57-11:12)** | Join GitHub Classroom in class (live) | **上午（10:57-11:12）** | 课堂上现场加入 GitHub Classroom |
+| **Afternoon** | Fill out assignment templates | **下午** | 填写作业模板 |
+| **Evening (by 11:59 PM)** | Submit completed assignment | **晚上（11:59 PM前）** | 提交完成的作业 |
 
 ---
 
